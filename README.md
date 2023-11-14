@@ -10,6 +10,9 @@ Features:
 
 Screenshots
 * Wide screen:
+  
 ![Wide screen](full_screen.png)
+
 * Small screen
+  
 ![Small screen](small_screen.png)
